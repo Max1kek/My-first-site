@@ -1,0 +1,53 @@
+p img{
+
+border:5px solid darkorange ;
+border-radius: 100px;
+
+}
+
+p{
+    text-align: left;
+}
+
+h1{
+    text-align: center;
+    color: black;
+}
+
+h2{
+    text-align: center;
+    color: black;
+}
+html{
+    background-color: white;
+}
+
+h3{
+color: black;
+}
+
+header img{
+    border: 5px solid darkorange;
+    border-radius: 100px;   
+}
+
+header{
+    text-align: right;
+}
+.text{
+    text-align: right;
+    color: black;
+}
+.text2{
+  text-align: right;  
+  color: black;
+  font-size: 20px;
+}
+.chokopai{
+    text-align: right;
+    margin-left: 83%;
+}
+
+.style{
+    float: center;
+}
